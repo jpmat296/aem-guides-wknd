@@ -1,5 +1,10 @@
 # Sample AEM project template
 
+````
+Source:  
+https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-setup.html?lang=en#build
+````
+
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
 ## Modules
